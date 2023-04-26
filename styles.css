@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.box{
+	background-color:rgb(173,216,230);
+	border:2px solid black;
+	display:inline-block;
+	padding:60px;
+}
+p{
+	color:rgb(138,43,147);
+	align-self:center;
+	justify-content:center;
+}
